@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --refrerence oleh hello
+chmod --refrerence=oleh hello
